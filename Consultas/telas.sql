@@ -40,7 +40,7 @@ FROM TAB_ATIVIDADE A
 LEFT JOIN TAB_EVENTO E ON E.id_evento = A.id_evento;)
 
 --Evento desejado('A simplicidade de inovar com força total') --dados ocultos (id_evento_ 166)
---Atividade desejada('Introdutório em Inteligência Artificial') --dados ocultos(id_ativaide = 2085)
+--Atividade desejada('Introdutório em Inteligência Artificial') --dados ocultos(id_atividade = 2085)
 --Evento Gratis
 INSERT INTO TAB_PAGAMENTO(valor,forma_pagamento,status_pagamento,id_usuario,id_atividade) VALUES(
 	0.00,
@@ -467,4 +467,4 @@ SELECT * FROM TAB_EVENTO
 SELECT * FROM TAB_PAGAMENTO;
 
 --(SIMPLES)VISUALIZA todos as atividades
-SELECT * FROM TAB_ATIVIDADES;
+SELECT * FROM TAB_ATIVIDADE;
