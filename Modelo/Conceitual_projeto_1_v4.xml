@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<DIAGRAMA ID="1" TIPO="tpConceitual" UniversalUnicID="67AF-13-B713-B1-A140-52-DC">
+<DIAGRAMA ID="1" TIPO="tpConceitual" UniversalUnicID="F8BB-2C-935F-FB-DD95-18-3E">
     <InfoDiagrama ID="1">
         <Versao Valor="3.2.0"/>
         <Autores/>
@@ -10,7 +10,7 @@
         <Alinhamento_h Valor="60"/>
         <Zoom Valor="75"/>
         <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
-        <Localizacao Left="677" Top="328"/>
+        <Localizacao Left="699" Top="780"/>
         <Realce Valor="false"/>
     </InfoDiagrama>
     <Entidade ID="2">
@@ -1453,8 +1453,8 @@
         <Ligacoes PontaA="484" PontaB="1032"/>
         <Pontos>
             <Ponto Left="1590" Top="698"/>
-            <Ponto Left="1590" Top="668"/>
-            <Ponto Left="1584" Top="668"/>
+            <Ponto Left="1590" Top="651"/>
+            <Ponto Left="1584" Top="651"/>
             <Ponto Left="1584" Top="603"/>
         </Pontos>
         <Cardinalidade ID="1035">
@@ -1693,7 +1693,7 @@
     <Entidade ID="1182">
         <Bounds Height="58" Left="2329" Top="860" Width="120"/>
         <DisablePainted Valor="false"/>
-        <Texto>contratado</Texto>
+        <Texto>tab_contratado</Texto>
         <Observacao/>
         <Dicionario/>
         <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
@@ -2250,7 +2250,7 @@
         <Ligacoes PontaA="1308" PontaB="1292"/>
         <Pontos>
             <Ponto Left="1674" Top="1424"/>
-            <Ponto Left="1671" Top="1501"/>
+            <Ponto Left="1674" Top="1501"/>
             <Ponto Left="1804" Top="1501"/>
             <Ponto Left="1804" Top="1491"/>
         </Pontos>

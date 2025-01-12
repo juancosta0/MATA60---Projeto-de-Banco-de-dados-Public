@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<DIAGRAMA ID="1" TIPO="tpLogico" UniversalUnicID="ABD-46-8D6F-CE-28C-52-5E">
+<DIAGRAMA ID="1" TIPO="tpLogico" UniversalUnicID="498-79-D032-F7-3486-2E-A6">
     <InfoDiagrama ID="1">
         <Versao Valor="3.2.0"/>
         <Autores/>
@@ -10,7 +10,7 @@
         <Alinhamento_h Valor="60"/>
         <Zoom Valor="75"/>
         <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
-        <Localizacao Left="656" Top="550"/>
+        <Localizacao Left="1020" Top="608"/>
         <Realce Valor="false"/>
         <SeparatorSQL Valor=";"/>
         <Prefixo Valor=""/>
@@ -758,7 +758,7 @@
     <Tabela ID="8">
         <Bounds Height="130" Left="2221" Top="859" Width="150"/>
         <DisablePainted Valor="false"/>
-        <Texto>contratado</Texto>
+        <Texto>tab_contratado</Texto>
         <Observacao/>
         <Dicionario/>
         <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
@@ -1156,7 +1156,7 @@
     <Tabela ID="25">
         <Bounds Height="130" Left="1869" Top="1019" Width="150"/>
         <DisablePainted Valor="false"/>
-        <Texto>trabalho_tab_funcao_contratados_tab_atividade</Texto>
+        <Texto>tab_funcao_contratados_atividade</Texto>
         <Observacao/>
         <Dicionario/>
         <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
@@ -1358,8 +1358,8 @@
         <Ligacoes PontaA="25" PontaB="6"/>
         <Pontos>
             <Ponto Left="1865" Top="1084"/>
-            <Ponto Left="1715" Top="1084"/>
-            <Ponto Left="1715" Top="1241"/>
+            <Ponto Left="1769" Top="1084"/>
+            <Ponto Left="1769" Top="1242"/>
             <Ponto Left="1672" Top="1242"/>
         </Pontos>
         <LogicoCardinalidade ID="33">
